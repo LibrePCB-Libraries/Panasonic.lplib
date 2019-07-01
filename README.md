@@ -4,7 +4,7 @@
 
 Parts by Panasonic.
 
-Inofficial library, not endorsed by Panasonic.
+Unofficial library, not endorsed by Panasonic.
 
 ## License
 

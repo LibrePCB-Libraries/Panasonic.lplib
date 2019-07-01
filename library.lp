@@ -1,6 +1,6 @@
 (librepcb_library dd15ee4f-dbac-42a6-aa61-4fbcb8ff2181
  (name "Panasonic")
- (description "Devices by Panasonic (inofficial)")
+ (description "Devices by Panasonic (unofficial)")
  (keywords "panasonic")
  (author "LibrePCB")
  (version "0.1.1")
